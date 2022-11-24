@@ -3,7 +3,7 @@ back lib
 
 #### link js
 ```javascript
-<script src="https://back-omega.vercel.app/dist/back-render.min.js"></script>
+<script src="https://backpackerxl.github.io/back/dist/back-render.min.js" ></script>
 ```
 
 #### use 
